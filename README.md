@@ -1,1 +1,2 @@
-<img src="https://wakatime.com/share/@DjangoWong/64062ba2-026e-4493-a145-1c3b6cb610fd.png"/>
+<img src="https://raw.githubusercontent.com/django-wong/django-wong/master/PiQejEf31116URju4Vgiphy.gif" width="100px"/>
+<img src="https://raw.githubusercontent.com/django-wong/django-wong/master/xT9IgzoKnwFNmISR8Igiphy.gif" width="100px"/>
